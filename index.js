@@ -46,15 +46,7 @@ Player.prototype = {
 
 const POSITIONS_BORN = [
   {"x":12, "y": 14}, 
-  {"x":17, "y": 27}, 
-  {"x":20, "y": 33}, 
-  {"x":30, "y": 29}, 
-  {"x":52, "y": 29}, 
-  {"x":60, "y": 7}, 
-  {"x":58, "y": 18}, 
-  {"x":38, "y": 8}, 
-  {"x":40, "y": 15}, 
-  {"x":44, "y": 21}, 
+
 ];
 
 function createPlayer(message) {
