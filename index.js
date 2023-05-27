@@ -45,7 +45,7 @@ Player.prototype = {
 };
 
 const POSITIONS_BORN = [
-  {"x":5, "y": 5}, 
+  {"x":7, "y": 7}, 
 
 ];
 
